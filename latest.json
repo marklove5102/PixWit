@@ -1,5 +1,5 @@
 {
-    "version": "1.15.5",
+    "version": "1.16.3",
     "releaseDate": "2026-08-16",
     "releaseNotes": "录屏功能优化\n滚动截长图优化\n修复若干已知问题。",
     "required": false,
@@ -9,18 +9,18 @@
             "name": "绿色版便携版",
             "description": "解压即用，体积更小",
             "size": "19 MB",
-            "github": "https://github.com/yun-cun-li/PixWit/releases/download/v1.15.5/PixWit-1.15.5-Portable.7z",
-            "gitee": "https://gitee.com/bjs1999/PixWit/releases/download/v1.15.5/PixWit-1.15.5-Portable.7z",
-            "baiduPan": "https://pan.baidu.com/s/1guCHZGw5Bp2qctMjzfRfdA?pwd=ip4c"
+            "github": "https://github.com/yun-cun-li/PixWit/releases/download/v1.16.3/PixWit-1.16.3-Portable.7z",
+            "gitee": "https://gitee.com/bjs1999/PixWit/releases/download/v1.16.3/PixWit-1.16.3-Portable.7z",
+            "baiduPan": "https://pan.baidu.com/s/13ko1xUQ4go4uJjN0syjORg?pwd=44ae"
 
         },
         "setup": {
             "name": "安装版",
             "description": "一键安装，自动配置",
             "size": "21 MB",
-            "github": "https://github.com/yun-cun-li/PixWit/releases/download/v1.15.5/PixWit-1.15.5-Setup.exe",
-            "gitee": "https://gitee.com/bjs1999/PixWit/releases/download/v1.15.5/PixWit-1.15.5-Setup.exe",
-            "baiduPan": "https://pan.baidu.com/s/1s-36fevaGrruRmy8ay85Pw?pwd=sp8d"
+            "github": "https://github.com/yun-cun-li/PixWit/releases/download/v1.16.3/PixWit-1.16.3-Setup.exe",
+            "gitee": "https://gitee.com/bjs1999/PixWit/releases/download/v1.16.3/PixWit-1.16.3-Setup.exe",
+            "baiduPan": "https://pan.baidu.com/s/1Kl2ZT-XXWNn24cmSingIKg?pwd=qck1"
 
         }
     },
